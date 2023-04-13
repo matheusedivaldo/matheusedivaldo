@@ -1,9 +1,9 @@
 Olá🙋🏼‍♂️, eu sou o Matheus Edivaldo. 
 
-- 📘 Bom, eu curso Desenvolvimento de Sistemas na Etec de Carapicuíba-SP!
+- 📘 Análise e Desenvolvimento de Sistemas
 - 📚 Estudo HTML, CSS, JavaScript e PHP.
 - 💡Sou curioso e gosto de saber um pouco de tudo!
-- 💻🖱Gosto muito de logica de progamação!
+- 💻🖱Gosto muito de lógica de progamação!
 
 <div align="center">
   <a href="https://github.com/matheusedivaldo">
