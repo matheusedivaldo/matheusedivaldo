@@ -32,12 +32,9 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnol
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 </div>
 
-### Cobrinhas dos commits
-<div align="center">
-  <img src="https://github.com/matheusedivaldo/matheusedivaldo/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</div>
-
 ### Contato
 - Você pode me encontrar no [GitHub](https://github.com/matheusedivaldo).
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo para discutir colaborações ou tirar dúvidas sobre programação e tecnologia. Vamos aprender e crescer juntos! 🚀
+
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
