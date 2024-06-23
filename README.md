@@ -31,5 +31,4 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnol
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo para discutir colaborações ou tirar dúvidas sobre programação e tecnologia. Vamos aprender e crescer juntos! 🚀
 
 ### Snake Game
-![Snake animation](https://github.com/matheusedivaldo/matheusedivaldo/blob/output/github-contribution-grid-snake.svg?bg_color=transparent)
-![snake gif](https://github.com/matheusedivaldo/matheusedivaldo/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/matheusedivaldo/matheusedivaldo/blob/output/github-contribution-grid-snake.svg?bg_color=dark)
