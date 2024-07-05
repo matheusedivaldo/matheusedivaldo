@@ -3,10 +3,7 @@
 Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e programação.
 
 ### Sobre Mim
-- 📘 Cursando Análise e Desenvolvimento de Sistemas.
-- 📘 Cursando Design Gráfico.
-- 📚 Estudando tecnologia Front-end e Back-end.
-- 💡 Curioso e gosto de aprender um pouco de tudo!
+Estudante de Análise e Desenvolvimento de Sistemas na FATEC, com formação técnica em Desenvolvimento de Sistemas e Design Gráfico pela ETEC. Especializado em tecnologias como PL/SQL, MySQL, Oracle BD, Bootstrap, JQuery, Ajax, e Json. Experiência no desenvolvimento de sistemas ERP e Sistemas Integrados de Gestão Empresarial, além de habilidades em HTML, CSS, JS e PHP. Comprometido em aprimorar constantemente minhas habilidades para proporcionar soluções tecnológicas inovadoras.
 
 ### Estatísticas do GitHub
 <div align="center">
@@ -16,7 +13,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnol
 </div>
 
 ### Tecnologias que trabalho desenvolvendo
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
