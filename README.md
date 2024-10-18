@@ -31,4 +31,4 @@ Estudante de Análise e Desenvolvimento de Sistemas na FATEC, com formação té
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo para discutir colaborações ou tirar dúvidas sobre programação e tecnologia. Vamos aprender e crescer juntos! 🚀
 
 ### Snake Game
-![Snake animation](https://github.com/matheusedivaldo/matheusedivaldo/blob/output/github-contribution-grid-snake.svg?)
+![Snake animation](https://github.com/matheusedivaldo/matheusedivaldo/blob/output/github-contribution-grid-snake.svg?bg=000000)
